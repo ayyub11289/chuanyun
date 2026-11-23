@@ -1,0 +1,17 @@
+{
+  "remark": "穿云",
+  "server": "203.0.113.10",
+  "uuid": "b7e2c1a0-1234-4abc-8def-0123456789ab",
+  "flow": "xtls-rprx-vision",
+  "sni": "www.microsoft.com",
+  "publicKey": "Ez3LJ3ZuN1IyKZoFX_CIgABck8VD5DQQk5a0bSot2kI",
+  "shortId": "a1b2c3d4",
+  "fingerprint": "chrome",
+  "ports": [443, 8443, 2053],
+  "hysteria2": {
+    "port": 36712,
+    "password": "请换成安装器给出的密码",
+    "sni": "www.microsoft.com",
+    "insecure": true
+  }
+}

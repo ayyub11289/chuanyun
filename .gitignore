@@ -1,0 +1,9 @@
+dist/
+*.exe
+*.syso
+.tools/
+data/
+chuanyun.log
+sing-box.json
+# 发布私钥和节点密钥，绝不能提交
+release/
